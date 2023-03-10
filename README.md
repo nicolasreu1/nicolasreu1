@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😄
+## Bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/nicolasreu1">
@@ -12,7 +12,12 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
-<div>
-  ![Snake animation](https://github.com/nicolasreu1/nicolasreu1/blob/output/github-contribution-grid-snake.svg)
-</div>
+ <br>
  
+ 
+<div> 
+  <a href = "mailto:nicolasreu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+
+</div>
