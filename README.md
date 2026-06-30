@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, me chamo Nicolas, tenho 24 anos e no momento estou estudando Engenharia de Software, já fui da área de mecânica industrial e atualmente estou na mecânica automotiva, porém migrando para área de<strong>software</strong>.
+  Olá, me chamo Nicolas, tenho 24 anos e no momento estou estudando Engenharia de Software, já fui da área de mecânica industrial e atualmente estou na mecânica automotiva, porém migrando para área de <strong>software</strong>.
 </p>
 
 <p align="left">
