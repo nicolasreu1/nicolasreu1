@@ -1,8 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Olá, me chamo Nicolas, tenho 24 anos e no momento estou estudando Engenharia de Software, já fui da área de mecânica industrial e atualmente estou na mecânica automotiva, porém migrando para área de <strong>software</strong>.
-</p>
+
+  # Olá, me chamo Nicolas! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">  
+  Tenho 24 anos e no momento estou cursando o bacharelado em <strong>Engenharia de Software.</strong>
+  
+  Tenho uma sólida trajetória na área de mecânica industrial e atualmente trabalho com mecânica automotiva. Agora, estou em processo de transição de carreira, migrando de vez para a área de desenvolvimento de software. Minha vivência na mecânica me ensinou a resolver problemas complexos e focar nos detalhes, habilidades que agora aplico para escrever código e construir sistemas.
+
 
 <p align="left">
   🦄 Linguagens: <strong>
